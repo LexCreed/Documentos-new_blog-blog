@@ -1,0 +1,49 @@
+html,body{
+	margin: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+	background-color: inherit;
+	border: none;
+	outline: none;
+	tex-transform: uppercase;
+	cursor: pointer;
+}
+
+.be-red {
+	background-color: #555555;
+}
+
+.white{
+	color: #B8B8B8;
+}
+#logo{
+	font-size: 2em;
+}
+.no-margin{
+	margin: 0px
+}
+.large-padding{
+	padding: 1px 5px
+} 
+a:visited{
+	color: inherit;
+	text-decoration: none;
+}
+.field{
+	margin-top:1em;
+}
+.top-space{
+	margin-top:1em;
+}
+.form-control{
+	border:none;
+	border-bottom: 1px solid;
+	outline:none;
+	whidth: 100%;
+	display: block;
+	padding: 10px 0px;
+	font-size: 1.2em;
+}
+
